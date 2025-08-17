@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume - Md Al Shaharia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      margin: 40px;
+      color: #222;
+    }
+    h1, h2 {
+      color: #003366;
+      margin-bottom: 5px;
+    }
+    h1 {
+      font-size: 24px;
+      border-bottom: 2px solid #003366;
+      padding-bottom: 5px;
+    }
+    h2 {
+      font-size: 18px;
+      margin-top: 20px;
+      border-bottom: 1px solid #aaa;
+      padding-bottom: 3px;
+    }
+    .contact {
+      margin-bottom: 20px;
+    }
+    .contact p {
+      margin: 3px 0;
+    }
+    ul {
+      margin: 5px 0 10px 20px;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .references p {
+      margin: 3px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>MD AL SHAHARIA</h1>
+  <div class="contact">
+    <p>Email: shaharia.shovon1@gmail.com | Phone: 01714298729 | DOB: 30 December, 2000</p>
+    <p>LinkedIn: linkedin.com/in/shahariashovon | Address: Kawlar Jamidarbari, Khilkhet, Dhaka 1229</p>
+  </div>
+
+  <div class="section">
+    <h2>Career Summary</h2>
+    <p>Recent Urban and Rural Planning (BURP) graduate with multidisciplinary knowledge in poverty alleviation, transportation, WASH, and social innovation. Published researcher on climate change adaptation and public health, skilled in GIS, field research, and community-focused planning. Highly motivated, curious, and adaptable, with proven resilience and leadership as former President of a university cultural club. Purpose-driven, bold thinker, and natural collaborator, eager to contribute creativity, research expertise, and commitment to advance BRAC’s mission across its diverse programmes.</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p><b>Bachelor of Urban and Rural Planning (BURP)</b> | 2019 - 2024<br>
+    Khulna University, Bangladesh | CGPA: 3.27/4.0<br>
+    Thesis: An Investigation of Social and Economic Resilience in Bangladesh</p>
+    <p><b>Higher Secondary Certificate (HSC)</b> | 2016 - 2018<br>
+    Birshrestha Munshi Abdur Rouf Public College, Dhaka | GPA: 4.83/5.0</p>
+    <p><b>Secondary School Certificate (SSC)</b> | 2014 - 2016<br>
+    Katgara Secondary School, Chowgacha, Jashore | GPA: 5.0/5.0</p>
+  </div>
+
+  <div class="section">
+    <h2>Publications</h2>
+    <ul>
+      <li><i>Understanding Dengue Outbreaks in Rajshahi District, Bangladesh: A Comprehensive Case Study</i> — IDCase, Elsevier (2024)</li>
+      <li><i>Exploring the Dynamics of Climate Change Vulnerability and Adaptation of Southwestern Coastal Communities in Bangladesh</i> — International Journal of Innovative Science and Research Technology (2024)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Core Competencies</h2>
+    <ul>
+      <li>Project Planning & Implementation</li>
+      <li>Data Analysis & GIS Mapping (ArcGIS, QGIS)</li>
+      <li>Research & Report Writing</li>
+      <li>Stakeholder Engagement & Communication</li>
+      <li>Presentation & Storytelling Design (PowerPoint, Canva)</li>
+      <li>Adaptability & Problem-Solving</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Relevant Experience</h2>
+    <p><b>President, Onkar Srinuta Cultural Club — Khulna University</b></p>
+    <ul>
+      <li>Led a team to organize cultural and social awareness events.</li>
+      <li>Managed social media platforms to enhance audience engagement.</li>
+      <li>Demonstrated resilience by adapting activities in challenging circumstances.</li>
+    </ul>
+    <p><b>Research Projects</b></p>
+    <ul>
+      <li>Led academic thesis on “Economic and Social Resilience of Bangladesh”.</li>
+      <li>Conducted fieldwork, interviews, and GIS mapping for climate, poverty, resilience, and health-related studies.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Technical Skills</h2>
+    <p><b>GIS & Mapping:</b> ArcGIS, QGIS, Google Earth Pro<br>
+    <b>Data Analysis:</b> R (RStudio), IBM SPSS<br>
+    <b>Design & Engineering:</b> AutoCAD (2D/3D)<br>
+    <b>Productivity:</b> Microsoft Office (Word, PowerPoint, Excel)<br>
+    <b>Data Collection:</b> KoBoToolbox, Survey Monkey, Google Forms<br>
+    <b>Collaboration:</b> Google Drive, Zoom, Outlook</p>
+  </div>
+
+  <div class="section">
+    <h2>Training & Workshops</h2>
+    <p>Sustainable Urban Water and Sanitation (WASH) — Khulna University & WaterAid (Nov 2021 – Feb 2022)</p>
+  </div>
+
+  <div class="section">
+    <h2>Extra-Curricular Activities</h2>
+    <ul>
+      <li>Leadership roles in cultural club management</li>
+      <li>Community awareness campaigns</li>
+      <li>Public speaking and creative writing</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Honor and Awards</h2>
+    <p>Award for Extracurricular Performance — Urban and Rural Planning Discipline, Khulna University</p>
+  </div>
+
+  <div class="section references">
+    <h2>References</h2>
+    <p><b>Mohammed Shariful Islam, PhD</b><br>
+    Assistant Professor, Urban and Rural Planning Discipline, Khulna University<br>
+    Email: sharif@urp.ku.ac.bd | Mobile: 01760889096</p>
+    <br>
+    <p><b>Md. Mazharul Islam</b><br>
+    Programming Officer (GCC- South Asia Corridor), International Labour Organization (ILO)<br>
+    Email: mazhar.devpro@gmail.com | Mobile: 01722822699</p>
+  </div>
+</body>
+</html>
